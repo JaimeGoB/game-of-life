@@ -7,12 +7,6 @@ pipeline{
     agent none
     
     stages{
-        stage('Checkout'){
-            agent any
-            steps{
-                git 'https://github.com/JaimeGoB/game-of-life.git'
-            }
-        }
         stage('Compile'){
             agent any
             steps{
