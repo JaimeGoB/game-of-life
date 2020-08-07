@@ -37,6 +37,7 @@ John is an experienced consultant and trainer specialising in Enterprise Java, W
 
 The CI/CD Pipeline was built using jenkins. 
 The maven project was:
+
 -Compiled
 
 -Tested
@@ -44,6 +45,7 @@ The maven project was:
 -Package
 
 -Deployed
+
 ![alt text](https://github.com/JaimeGoB/game-of-life/blob/master/2.png)
 ![alt text](https://github.com/JaimeGoB/game-of-life/blob/master/2.png)
 
