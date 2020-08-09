@@ -17,7 +17,7 @@ The maven project was:
 
 -Deployed
 
-![alt text](https://github.com/JaimeGoB/game-of-life/blob/master/2.png)
+![alt text](https://github.com/JaimeGoB/game-of-life/blob/master/1.png)
 ![alt text](https://github.com/JaimeGoB/game-of-life/blob/master/2.png)
 
 
