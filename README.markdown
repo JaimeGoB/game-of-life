@@ -1,4 +1,5 @@
 This is a simple demonstration application used in the [Jenkins: The Definitive Guide](http://wakaleo.com/books/jenkins-the-definitive-guide) book.
+
 Project forked from: https://github.com/wakaleo/game-of-life
 
 I used the project to build a CI/CD pipeline.
